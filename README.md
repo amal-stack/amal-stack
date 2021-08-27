@@ -27,7 +27,7 @@
 
 ```csharp
 
-public static Person BuildMe() => new PersonBuilder();
+public static Person BuildMe() => new PersonBuilder()
     .HasName("Amal Krishna")
     .GoesByPronouns("he/him", "they/them")
     .WasBornOn(new DateTime(year: 2000, month: 5, day: 4))
