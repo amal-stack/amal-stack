@@ -26,9 +26,8 @@
 <h4>
 
 ```csharp
-PersonBuilder builder = new();
 
-builder
+public static Person BuildMe() => new PersonBuilder();
     .HasName("Amal Krishna")
     .GoesByPronouns("he/him", "they/them")
     .WasBornOn(new DateTime(year: 2000, month: 5, day: 4))
@@ -39,7 +38,9 @@ builder
       new Language(name: "Malayalam", proficiency: Proficiency.Native),
       new Language(name: "Marathi", proficiency: Proficiency.Intermediate),
       new Language(name: "Spanish", proficiency: Proficiency.Elementary)
-    );
+    )
+    .Build();
+
 ```
 
 </h4>
