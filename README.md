@@ -46,11 +46,12 @@ builder
 
 ## Statistics
 
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amal-stack&theme=material-palenight&count_private=true&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amal-stack&theme=material-palenight&count_private=true&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-stack&theme=material-palenight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-stack&theme=material-palenight&layout=compact" />
 </a>
 
 
