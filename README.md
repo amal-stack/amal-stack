@@ -1,4 +1,4 @@
-# Hey there, its Amal Krishna. 
+# Hey there, it's Amal Krishna. 
 [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11455105?logo=stackoverflow)](https://stackoverflow.com/users/11455105/) [![[LinkedIn]](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/amallkrishna/) [![[HackerRank]](https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=black)](https://www.hackerrank.com/amalkrishna263) ![[GitHub]](https://img.shields.io/badge/-GitHub-black?logo=GitHub)
 
 *21 | Student at Mumbai University | Tech and Programming Enthusiast*
