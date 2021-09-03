@@ -32,12 +32,14 @@ public static Person BuildMe() => new PersonBuilder()
     .GoesByPronouns("he/him", "they/them")
     .WasBornOn(new DateTime(year: 2000, month: 5, day: 4))
     .HailsFrom(country: "🇮🇳", city: "Mumbai")
-    .CanSpeak(
-      new Language(name: "English", proficiency: Proficiency.Fluent),
-      new Language(name: "Hindi",   proficiency: Proficiency.Fluent),
-      new Language(name: "Malayalam", proficiency: Proficiency.Native),
-      new Language(name: "Marathi", proficiency: Proficiency.Intermediate),
-      new Language(name: "Spanish", proficiency: Proficiency.Elementary)
+    .CanSpeak(languageBuilder =>
+    {
+      languageBuilder.Add(new Language(name: "English", proficiency: Proficiency.Fluent))
+        .ThenAdd(new Language(name: "Hindi",   proficiency: Proficiency.Fluent))
+        .ThenAdd(new Language(name: "Malayalam", proficiency: Proficiency.Native))
+        .ThenAdd(new Language(name: "Marathi", proficiency: Proficiency.Intermediate))
+        .ThenAdd(new Language(name: "Spanish", proficiency: Proficiency.Elementary))
+    }
     )
     .Build();
 
