@@ -1,5 +1,5 @@
 # Hey there, it's Amal Krishna. 
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11455105?logo=stackoverflow)](https://stackoverflow.com/users/11455105/) [![[LinkedIn]](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/amallkrishna/) [![[HackerRank]](https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=black)](https://www.hackerrank.com/amalkrishna263) ![[GitHub]](https://img.shields.io/badge/-GitHub-black?logo=GitHub)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11455105?logo=stackoverflow)](https://stackoverflow.com/users/11455105/) [![[LinkedIn]](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn)](https://www.linkedin.com/in/amallkrishna/) [![[HackerRank]](https://img.shields.io/badge/HackerRank-00EA64?logo=HackerRank&logoColor=black)](https://www.hackerrank.com/amalkrishna263) [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=GitHub)](https://github.com/amal-stack) [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?logo=BuyMeACoffee&logoColor=black)](https://www.buymeacoffee.com/amalk)
 
 *21 | Student at Mumbai University | Tech and Programming Enthusiast*
 
