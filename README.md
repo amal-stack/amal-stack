@@ -6,10 +6,13 @@
 
 **![[Coffee]](https://img.shields.io/badge/-☕Coffee-6f4e37) + ![[Dark Theme]](https://img.shields.io/badge/-🌙Dark%20Theme-black) + ![[Fonts]](https://img.shields.io/badge/-🔤Fonts%20with%20Ligatures-blue)** 
 
-## Other interests include 
-* Exploring languages and cultures.
-* Interaction, public speaking and presentations.
-* Tutoring, sharing knowledge and inspiring.
+## Vote for Me!
+Please consider voting for two of my articles and giving them a like from September 24th to September 30th for Geeks for Geeks' Blogathon!:
+
+* [Pattern Matching in C#](https://www.geeksforgeeks.org/pattern-matching-in-c-sharp/)
+* [Expression-bodied Memebers in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
+
+<sub> *Scroll down to the bottom and hit <kbd>Vote</kbd>.* </sub>
 
 ## I work with
 | Category | List
@@ -19,6 +22,11 @@
 | Databases | ![[PostgreSQL]](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white) ![[SQL Server]](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=MicrosoftSQLServer&logoColor=white) ![[MySQL]](https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white) |
 | Others | ![[Git]](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) ![[Azure DevOps]](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=AzureDevops) ![[Trello]](https://img.shields.io/badge/-Trello-0052CC?logo=Trello) ![[Jira Software]](https://img.shields.io/badge/-Jira%20Software-0052CC?logo=JiraSoftware) |
 | Editors and IDEs | ![[Visual Studio]](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=VisualStudio&logoColor=white) ![[Visual Studio Code]](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=VisualStudioCode&logoColor=white)|
+
+## Other interests include 
+* Exploring languages and cultures.
+* Interaction, public speaking and presentations.
+* Tutoring, sharing knowledge and inspiring.
 
 
 ## Talk is cheap, show me the code
@@ -45,6 +53,8 @@ public static Person BuildMe() => new PersonBuilder()
 
 </h4>
 
+
+
 ## Statistics
 
 
@@ -55,6 +65,10 @@ public static Person BuildMe() => new PersonBuilder()
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-stack&theme=material-palenight&layout=compact" />
 </a>
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=amalkrishna&theme=material-palenight&layout=compact" />
+</a>
 
 
 
