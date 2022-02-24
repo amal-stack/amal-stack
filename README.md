@@ -17,7 +17,7 @@
 
 ## Check out my articles
 * [Pattern Matching in C#](https://www.geeksforgeeks.org/pattern-matching-in-c-sharp/)
-* [Expression-bodied Memebers in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
+* [Expression-bodied Members in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
 
 
 
