@@ -43,7 +43,7 @@ public static Person BuildMe() => new PersonBuilder()
         .ThenAdd(new Language(name: "Hindi",   proficiency: Proficiency.Fluent))
         .ThenAdd(new Language(name: "Malayalam", proficiency: Proficiency.Native))
         .ThenAdd(new Language(name: "Marathi", proficiency: Proficiency.Intermediate))
-        .ThenAdd(new Language(name: "Spanish", proficiency: Proficiency.Elementary))
+        .ThenAdd(new Language(name: "Spanish", proficiency: Proficiency.Elementary));
     )
     .Build();
 
