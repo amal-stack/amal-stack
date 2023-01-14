@@ -29,10 +29,9 @@
 
 ## Talk is cheap, show me the code
 
-<h4>
 
-```csharp
 
+```c#
 public static Person BuildMe() => new PersonBuilder()
     .HasName("Amal Krishna")
     .GoesByPronouns("he/him", "they/them")
@@ -46,10 +45,9 @@ public static Person BuildMe() => new PersonBuilder()
         .ThenAdd(new Language(name: "Spanish", proficiency: Proficiency.Elementary));
     )
     .Build();
-
 ```
 
-</h4>
+
 
 
 
