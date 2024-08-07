@@ -48,13 +48,13 @@ public static Person BuildMe() => Person.CreateBuilder()
     ])
     .HasPresence(presence => {
         presence.OnPlatform(Platform.Email)
-           .As("amalkrishna263@gmail.com")
-           .WithStatus(Status.HighlyActive)
+            .As("amalkrishna263@gmail.com")
+            .WithStatus(Status.HighlyActive)
 
         presence.OnPlatform(Platform.Stackoverflow)
-          .As(userId: 11455105)
-          .WithUrl(new Uri("https://stackoverflow.com/users/11455105/"))
-          .WithStatus(Status.HighlyActive);
+            .As(userId: 11455105)
+            .WithUrl(new Uri("https://stackoverflow.com/users/11455105/"))
+            .WithStatus(Status.HighlyActive);
 
        presence.OnPlatform(Platform.Linkedin)
            .As(username: "amallkrishna")
@@ -62,9 +62,9 @@ public static Person BuildMe() => Person.CreateBuilder()
            .WithStatus(Status.ModeratelyActive);
 
        presence.OnPlatform(Platform.Github)
-          .As(username: "amal-stack")
-          .WithUrl(new Uri"https://github.com/amal-stack"))
-          .WithStatus(Status.HighlyActive);
+           .As(username: "amal-stack")
+           .WithUrl(new Uri"https://github.com/amal-stack"))
+           .WithStatus(Status.HighlyActive);
     })
     .Build();
 ```
