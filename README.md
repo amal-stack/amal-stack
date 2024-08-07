@@ -16,9 +16,11 @@
 | Editors and IDEs | ![[Visual Studio]](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=VisualStudio&logoColor=white) ![[Visual Studio Code]](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=VisualStudioCode&logoColor=white) ![[IntelliJ IDEA]](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=IntelliJIDEA)
 
 ## Check out my articles
-* [Pattern Matching in C#](https://www.geeksforgeeks.org/pattern-matching-in-c-sharp/)
-* [Expression-bodied Members in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
+#### [Pattern Matching in C#](https://www.geeksforgeeks.org/pattern-matching-in-c-sharp/)
+Explore C#'s pattern matching and learn how to use various patterns to write succint and expressive code in C#.
 
+ #### [Expression-bodied Members in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
+Learn how to use the `=>` operator to simplify your code and write your C# methods and properties using a more minimal and concise syntax.
 
 
 ## Other interests include 
@@ -32,18 +34,38 @@
 
 
 ```c#
-public static Person BuildMe() => new PersonBuilder()
+public static Person BuildMe() => Person.CreateBuilder()
     .HasName("Amal Krishna")
     .GoesByPronouns("he/him", "they/them")
     .WasBornOn(new DateTime(year: 2000, month: 5, day: 4))
     .HailsFrom(country: "🇮🇳", city: "Mumbai")
-    .CanSpeak(languages => languages
-        .Add(new Language(name: "English", proficiency: Proficiency.Fluent))
-        .ThenAdd(new Language(name: "Hindi",   proficiency: Proficiency.Fluent))
-        .ThenAdd(new Language(name: "Malayalam", proficiency: Proficiency.Native))
-        .ThenAdd(new Language(name: "Marathi", proficiency: Proficiency.Intermediate))
-        .ThenAdd(new Language(name: "Spanish", proficiency: Proficiency.Elementary));
-    )
+    .CanSpeak([
+        new Language(name: "English", proficiency: Proficiency.Fluent),
+        new Language(name: "Hindi",   proficiency: Proficiency.Fluent),
+        new Language(name: "Malayalam", proficiency: Proficiency.Native),
+        new Language(name: "Marathi", proficiency: Proficiency.Intermediate),
+        new Language(name: "Spanish", proficiency: Proficiency.Elementary)
+    ])
+    .HasPresence(presence => {
+        presence.OnPlatform(Platform.Email)
+           .As("amalkrishna263@gmail.com")
+           .WithStatus(Status.HighlyActive)
+
+        presence.OnPlatform(Platform.Stackoverflow)
+          .As(userId: 11455105)
+          .WithUrl(new Uri("https://stackoverflow.com/users/11455105/"))
+          .WithStatus(Status.HighlyActive);
+
+       presence.OnPlatform(Platform.Linkedin)
+           .As(username: "amallkrishna")
+           .WithUrl(new Uri("https://www.linkedin.com/in/amallkrishna"))
+           .WithStatus(Status.ModeratelyActive);
+
+       presence.OnPlatform(Platform.Github)
+          .As(username: "amal-stack")
+          .WithUrl(new Uri"https://github.com/amal-stack"))
+          .WithStatus(Status.HighlyActive);
+    })
     .Build();
 ```
 
