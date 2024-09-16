@@ -56,15 +56,15 @@ public static Person BuildMe() => Person.CreateBuilder()
             .WithUrl(new Uri("https://stackoverflow.com/users/11455105/"))
             .WithStatus(Status.HighlyActive);
 
-       presence.OnPlatform(Platform.Linkedin)
-           .As(username: "amallkrishna")
-           .WithUrl(new Uri("https://www.linkedin.com/in/amallkrishna"))
-           .WithStatus(Status.ModeratelyActive);
+        presence.OnPlatform(Platform.Linkedin)
+            .As(username: "amallkrishna")
+            .WithUrl(new Uri("https://www.linkedin.com/in/amallkrishna"))
+            .WithStatus(Status.ModeratelyActive);
 
-       presence.OnPlatform(Platform.Github)
-           .As(username: "amal-stack")
-           .WithUrl(new Uri"https://github.com/amal-stack"))
-           .WithStatus(Status.HighlyActive);
+        presence.OnPlatform(Platform.Github)
+            .As(username: "amal-stack")
+            .WithUrl(new Uri("https://github.com/amal-stack"))
+            .WithStatus(Status.HighlyActive);
     })
     .Build();
 ```
