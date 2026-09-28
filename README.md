@@ -87,21 +87,6 @@ var amal = Person.CreateBuilder()
         Frameworks = ["ASP.NET", "Blazor", "Flutter", "Spring Boot", "JavaFX"],
         Others = ["SQL", "Git", "Regex", "Docker"]
     })
-    .ConfigureEnvironment((env, me) => 
-    {
-        env.Theme  = (from theme in Ide.Themes
-                    where theme.Mode == ThemeMode.Dark
-                    where me.Likes(theme)
-                    select theme
-                    ).First();
-        env.Font = (from font in SystemFonts.All
-                    where Fonts.IsMonospaced
-                    where fonts.HasLigatures
-                    where me.Likes(font)
-                    select font
-                    ).First();
-
-    })
     .WithAchievements(
         "Stack Overflow Top 0.2% (~980K+ reach)",
         "Flutter Framework Contributor"
@@ -125,6 +110,21 @@ var amal = Person.CreateBuilder()
             .As(username: "amal-stack")
             .ReachableOn(new Uri("https://github.com/amal-stack"))
             .WithStatus(Status.HighlyActive);
+    })
+    .ConfigureEnvironment((env, me) => 
+    {
+        env.Theme  = (from theme in Ide.Themes
+                    where theme.Mode == ThemeMode.Dark
+                    where me.Likes(theme)
+                    select theme
+                    ).First();
+        env.Font = (from font in SystemFonts.All
+                    where font.IsMonospaced
+                    where font.HasLigatures
+                    where me.Likes(font)
+                    select font
+                    ).First();
+
     })
     .HailsFrom(country: "🇮🇳", city: "Mumbai")
     .Build();
