@@ -54,7 +54,7 @@ I continue to go down more rabbit holes usually emerging with a satisfying answe
 | Others                | ![[Git]](https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white) ![[Azure DevOps]](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=AzureDevops) ![[Trello]](https://img.shields.io/badge/-Trello-0052CC?logo=Trello) ![[Jira Software]](https://img.shields.io/badge/-Jira%20Software-0052CC?logo=JiraSoftware)                                                                                                                                                                                                                                                         |
 
 
-## Highlights 
+## Highlights & Community
 
 ### [Stack Overflow](https://stackoverflow.com/users/11455105)
 **Top 0.2% overall | Top 5% active | 230+ answers | ~1M people reached**
@@ -75,8 +75,10 @@ Explore C#'s pattern matching and learn how to use various patterns to write suc
  #### [Expression-bodied Members in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
 Learn how to use the `=>` operator to simplify your code and write your C# methods and properties using a more minimal and concise syntax.
 
-</details>
 
+### Other Profiles
+[![Pluralsight](https://img.shields.io/badge/Pluralsight-Expert%20Skill%20IQ-F15B2A?logo=pluralsight&logoColor=white)](https://app.pluralsight.com/profile/amal-krishna-99)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/amalkrishna263)
 
 ## Statistics
 
