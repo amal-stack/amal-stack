@@ -24,6 +24,7 @@
   <sub>Building production software across mobile, backend & developer tooling.</sub>
 </p>
 </samp>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&weight=900&duration=2000&pause=1000&color=8250DF&random=true&width=800&height=64&lines=We+need+to+talk+if+you+called+your+last+class+a+%22SomethingManager%22.;I+make+computers+do+what+I+want+%3A%29;I'm+probably+in+another+rabbit+hole+right+now.;I+overanalyze+overengineering+for+fun.;That+4-file+abstraction+I+wrote+at+2+am+could+have+been+a+function.;I+had+more+important+things+to+do+the+day+I+wrote+these.;The+sugar+I+cut+from+my+coffee+made+it+to+my+syntax.;I+like+my+type+systems+as+strong+as+my+coffee.;My+code+looks+more+beautiful+than+the+UI+it+powers.;Reinventing+the+wheel+even+if+it+ends+up+being+a+square.+;Rubberducking+because+ducks+are+better+listeners+than+humans.;You+don't+need+a+library+to+left-pad+a+string.)](https://git.io/typing-svg)
 
