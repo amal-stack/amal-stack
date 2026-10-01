@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-amal--stack-181717?logo=github&logoColor=white&color=white)](https://github.com/amal-stack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/amallkrishna/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalships@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-E02424?logo=googledocs&logoColor=E02424&labelColor=white)](https://github.com/amal-stack/amal-stack/blob/main/docs/Amal_Resume_Software_Engineer.pdf)
 
 
 
@@ -12,26 +13,34 @@
 
 
 
+<samp>
+<p align="center">
+  <strong>🧑‍💻 Software Engineer</strong>
+  &nbsp;|&nbsp;
+  <strong>📟 Tech & Programming Enthusiast</strong>
+  &nbsp;|&nbsp;
+  <strong>🐧 Open-Source & Community Contributor</strong>
+  <br>
+  <sub>Building production software across mobile, backend & developer tooling.</sub>
+</p>
+</samp>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&weight=900&duration=2000&pause=1000&color=8250DF&random=true&width=800&height=64&lines=We+need+to+talk+if+you+called+your+last+class+a+%22SomethingManager%22.;I+make+computers+do+what+I+want+%3A%29;I'm+probably+in+another+rabbit+hole+right+now.;I+overanalyze+overengineering+for+fun.;That+4-file+abstraction+I+wrote+at+2+am+could+have+been+a+function.;I+had+more+important+things+to+do+the+day+I+wrote+these.;The+sugar+I+cut+from+my+coffee+made+it+to+my+syntax.;I+like+my+type+systems+as+strong+as+my+coffee.;My+code+looks+more+beautiful+than+the+UI+it+powers.;Reinventing+the+wheel+even+if+it+ends+up+being+a+square.+;Rubberducking+because+ducks+are+better+listeners+than+humans.;You+don't+need+a+library+to+left-pad+a+string.)](https://git.io/typing-svg)
 
 
-**Software Engineer** | **Tech and Programming Enthusiast** | **Open-Source and Community Contributor** 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Mono&weight=900&duration=2000&pause=1000&color=8250DF&random=true&width=800&height=100&lines=We+need+to+talk+if+you+called+your+last+class+a+%22SomethingManager%22.;I+make+computers+do+what+I+want+%3A%29;I'm+probably+in+another+rabbit+hole+right+now.;I+overanalyze+overengineering+for+fun.;That+4-file+abstraction+I+wrote+at+2+am+could+have+been+a+function.;I+had+more+important+things+to+do+the+day+I+wrote+these.;The+sugar+I+cut+from+my+coffee+made+it+to+my+syntax.;I+like+my+type+systems+as+strong+as+my+coffee.;My+code+looks+more+beautiful+than+the+UI+it+powers.;Reinventing+the+wheel+even+if+it+ends+up+being+a+square.+;Rubberducking+because+ducks+are+better+listeners+than+humans.;You+don't+need+a+library+to+left-pad+a+string.)](https://git.io/typing-svg)
-
-
-My journey started back when I went down a rabbit hole at 10 after discovering I couldn't name a folder "con" on Windows, and I completely lost any desire to return. 
+My journey started back when I went down a rabbit hole at 10 after discovering I couldn't name a folder "`con`" on Windows, and I completely lost any desire to return. 
 
 Computers have always been my escape and happy place. But as a kid, I couldn't let go of the curiosity to understand how they work. Then I realized it was an illusion all along: the whole computing industry is built on layers of abstractions working in perfect harmony. The shattered illusion wasn't disappointing. In fact, it made me appreciate the depth and ingenuity that went into making inanimate objects do meaningful stuff. 
 
 I continue to go down more rabbit holes usually emerging with a satisfying answer or occasionally a library or side-project no one asked for. I'm now a software engineer and understanding and working with abstractions is just part of the job :) 
 
 ##  I'm a real nerd about
-- **Abstractions**: it all started here! (And they say every problem can be solved by adding another layer).
-- **Linguistics and Writing Systems**: Linguistics, or the study of real human languages was another aspect I loved as a child. Specifically, scripts. I learnt how to read and write 12-14 scripts for fun. 
-- **Code Aesthetics, Elegance & API Ergonomics**: I feel like this is where my appreciation for computing and human language scripts meet.
-- **Coffee Science**: Obsessed with coffee and brewing science, although I never did it myself or even owned a coffee machine! For now it just fuels my DX! XD (see what I did there?)
-- **New Programming Language Features**: Many feel new programming features add unnecessary bloat or force them to learn more. But I feel this industry is built to evolve. What you learn about today may bite the dust tomorrow. But yeah, some features are just sugar, but still nice to have :)
-- **New Themes and Fonts**: Sometimes, I spend more time picking a new theme or font than on coding. Usually prefer dark themes and fonts with ligatures.
+- **🧅 Abstractions**: it all started here! (And they say every problem can be solved by adding another layer).
+- **🪶 Linguistics and Writing Systems**: Linguistics, or the study of real human languages was another aspect I loved as a child. Specifically, scripts. I learnt how to read and write 12-14 scripts for fun. 
+- **🪞 Code Aesthetics, Elegance & API Ergonomics**: I feel like this is where my appreciation for computing and human language scripts meet.
+- **☕ Coffee Science**: Obsessed with coffee and brewing science, although I never did it myself or even owned a coffee machine! For now it just fuels my DX! XD (see what I did there?)
+- **🧫 New Programming Language Features**: Many feel new programming features add unnecessary bloat or force them to learn more. But I feel this industry is built to evolve. What you learn about today may bite the dust tomorrow. But yeah, some features are just sugar, but still nice to have :)
+- **🎨 New Themes and Fonts**: Sometimes, I spend more time picking a new theme or font than on coding. Usually prefer dark themes and fonts with ligatures.
 
 
 
@@ -47,7 +56,7 @@ I continue to go down more rabbit holes usually emerging with a satisfying answe
 ## Highlights 
 
 ### [Stack Overflow](https://stackoverflow.com/users/11455105)
-**Top 0.2% overall | Top 5% active | 230+ answers | ~980K people reached**
+**Top 0.2% overall | Top 5% active | 230+ answers | ~1M people reached**
 
 Apart from learning and understanding how things work, explaining those concepts, simplifying it for others by trying to see what I already know from the lens of them is extremely rewarding for me.
 
@@ -57,7 +66,7 @@ Apart from learning and understanding how things work, explaining those concepts
 I have immense appreciation for OSS. I have contributed to a few projects and libraries, my most significant one being in the Flutter framework. Interested and looking forward to contributing more!
 
 ### Technical Deep-dives
-I have written two articles on my favorite C# features over on GeeksForGeeks:
+I have written two articles on modern C# features:
 
 #### [Pattern Matching in C#](https://www.geeksforgeeks.org/pattern-matching-in-c-sharp/)
 Explore C#'s pattern matching and learn how to use various patterns to write succinct and expressive code in C#.
@@ -65,7 +74,7 @@ Explore C#'s pattern matching and learn how to use various patterns to write suc
  #### [Expression-bodied Members in C#](https://www.geeksforgeeks.org/expression-bodied-members-in-c-sharp/)
 Learn how to use the `=>` operator to simplify your code and write your C# methods and properties using a more minimal and concise syntax.
 
-
+</details>
 
 
 ## Statistics
@@ -93,23 +102,19 @@ var amal = Person.CreateBuilder()
     )
     .HasPresence(presence => {
         presence.OnPlatform(Platform.Email)
-            .As("amalships@gmail.com")
-            .WithStatus(Status.HighlyActive);
+            .As("amalships@gmail.com");
 
         presence.OnPlatform(Platform.Stackoverflow)
             .As(userId: 11455105)
-            .ReachableOn(new Uri("https://stackoverflow.com/users/11455105/"))
-            .WithStatus(Status.HighlyActive);
+            .ReachableOn(new Uri("https://stackoverflow.com/users/11455105/"));
 
         presence.OnPlatform(Platform.Linkedin)
             .As(username: "amallkrishna")
-            .ReachableOn(new Uri("https://www.linkedin.com/in/amallkrishna"))
-            .WithStatus(Status.ModeratelyActive);
+            .ReachableOn(new Uri("https://www.linkedin.com/in/amallkrishna"));
 
         presence.OnPlatform(Platform.Github)
             .As(username: "amal-stack")
-            .ReachableOn(new Uri("https://github.com/amal-stack"))
-            .WithStatus(Status.HighlyActive);
+            .ReachableOn(new Uri("https://github.com/amal-stack"));
     })
     .ConfigureEnvironment((env, me) => 
     {
